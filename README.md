@@ -13,7 +13,7 @@ Navigate the world of personal finance with detailed analyses and visualizations
    - Microsoft Excel
    - Microsoft Power BI
 2. **Installation**:
-   - Clone the repository to your local machine using `git clone <repository-url>`.
+   - Clone the repository to your local machine using `https://github.com/BytefulRashi/FinanceInsightHub.git`.
    - Open the `Finance Database.xlsx` file in Microsoft Excel.
    - Open the `Personal Finance Dashboard.pbix` file in Microsoft Power BI.
 
